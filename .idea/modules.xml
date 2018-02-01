@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ssm-soa/soa-api/soa-api.iml" filepath="$PROJECT_DIR$/ssm-soa/soa-api/soa-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm-soa/soa-base/soa-base.iml" filepath="$PROJECT_DIR$/ssm-soa/soa-base/soa-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm-soa/soa-user/soa-user.iml" filepath="$PROJECT_DIR$/ssm-soa/soa-user/soa-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm-core/ssm-core.iml" filepath="$PROJECT_DIR$/ssm-core/ssm-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm-dao/ssm-dao.iml" filepath="$PROJECT_DIR$/ssm-dao/ssm-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm-domain/ssm-domain.iml" filepath="$PROJECT_DIR$/ssm-domain/ssm-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm-redis/ssm-redis.iml" filepath="$PROJECT_DIR$/ssm-redis/ssm-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm-root.iml" filepath="$PROJECT_DIR$/ssm-root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm-service/ssm-service.iml" filepath="$PROJECT_DIR$/ssm-service/ssm-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm-soa/ssm-soa.iml" filepath="$PROJECT_DIR$/ssm-soa/ssm-soa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm-web/ssm-web.iml" filepath="$PROJECT_DIR$/ssm-web/ssm-web.iml" />
+    </modules>
+  </component>
+</project>
