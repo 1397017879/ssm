@@ -18,17 +18,17 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="soa-api" target="1.5" />
-      <module name="soa-base" target="1.5" />
+      <module name="soa-api" target="1.8" />
+      <module name="soa-base" target="1.8" />
       <module name="soa-user" target="1.6" />
-      <module name="ssm-core" target="1.5" />
-      <module name="ssm-dao" target="1.5" />
-      <module name="ssm-domain" target="1.5" />
-      <module name="ssm-redis" target="1.5" />
-      <module name="ssm-root" target="1.5" />
+      <module name="ssm-core" target="1.8" />
+      <module name="ssm-dao" target="1.8" />
+      <module name="ssm-domain" target="1.8" />
+      <module name="ssm-redis" target="1.8" />
+      <module name="ssm-root" target="1.8" />
       <module name="ssm-service" target="1.6" />
-      <module name="ssm-soa" target="1.5" />
-      <module name="ssm-web" target="1.5" />
+      <module name="ssm-soa" target="1.8" />
+      <module name="ssm-web" target="1.8" />
       <module name="ssm-webapp" target="1.5" />
     </bytecodeTargetLevel>
   </component>
